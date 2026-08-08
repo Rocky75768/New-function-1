@@ -1,5 +1,4 @@
 # New-function-1
 This is my first git repository.
 <br>
-Author: rishi \
-narvariya
+Author: rishi narvariya
