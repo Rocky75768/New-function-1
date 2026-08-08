@@ -1,4 +1,4 @@
 # New-function-1
-This is my first git repository
-/n
+This is my first git repository.
+<br>
 Author: rishi
