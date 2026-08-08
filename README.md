@@ -1,4 +1,4 @@
 # New-function-1
 This is my first git repository.
 <br>
-Author: rishi std::endl narvariya
+Author: rishi narvariya
